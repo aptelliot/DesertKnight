@@ -23,8 +23,8 @@
       - Jab + cross: https://www.youtube.com/watch?v=eYwsZhfjb4s
       - Guardias altas: https://www.youtube.com/watch?v=tKBoeFXrUw0
       - Desplazamientos: https://www.youtube.com/watch?v=21-UT_7iv88
-                         https://www.youtube.com/watch?v=YeBEm2iumq8
                          https://www.youtube.com/watch?v=394JBAqBkHQ
+      - Ejercicios de FootWork: https://www.youtube.com/watch?v=YeBEm2iumq8
       - 19 golpes del boxeo: https://www.youtube.com/watch?v=icohyLbubmc
       - Golpes al aire con desplazamiento (retroceso): https://www.youtube.com/watch?v=QMq-dd4sv1g
       - Golpes continuos: https://www.youtube.com/watch?v=fqtnoQwNzl4         
@@ -58,6 +58,7 @@
     2. Jab + cross
     3. Guardias altas
     4. Desplazamientos
+    5. Ejercicios de FootWork
 
 - Finished
     1. Estiramientos
@@ -100,10 +101,11 @@
 - Correr en cinta 30–40 min (ritmo sostenible a 6 km/h)
 
 - Boxeo:
-    1. Golpes al aire con desplazamiento (retroceso)
-    2. Defensa + esquiva (esquivas de cintura y bloqueos con antebrazos)
-    3. 4–5 rounds de 3 min
-    4. Makiwara
+    1. Ejercicios de FootWork
+    2. Golpes al aire con desplazamiento (retroceso)
+    3. Defensa + esquiva (esquivas de cintura y bloqueos con antebrazos)
+    4. 4–5 rounds de 3 min
+    5. Makiwara
 
 👉 Aquí NO fuerza pesada
 
@@ -125,10 +127,11 @@
     5. Extensión tríceps sobre cabeza (pesa romana desde arriba por detras de la cabeza) – 10
 
 - Boxeo (20–25 min)
-    1. Golpes lentos y controlados
-    2. Golpes continuos
-    3. Trabajo de hombro (guardia alta prolongada y sin pausas)
-    4. Makiwara
+    1. Ejercicios de FootWork
+    2. Golpes lentos y controlados
+    3. Golpes continuos
+    4. Trabajo de hombro (guardia alta prolongada y sin pausas)
+    5. Makiwara
 
 👉 Mantienes volumen visual de brazo
 
@@ -153,9 +156,10 @@
     5. Respiración bajo estrés (Wim Huf) - 2:00 min
 
 - Boxeo (20 min)
-    1. Golpes lentos y controlados
-    2. Golpes continuos
-    3. Trabajo de hombro (guardia alta prolongada y sin pausas)
+    1. Ejercicios de FootWork
+    2. Golpes lentos y controlados
+    3. Golpes continuos
+    4. Trabajo de hombro (guardia alta prolongada y sin pausas)
 
 - Entrenamientos militares (30 min)
     1. Movimientos militares con arma de entrada a edificios - (20 min)
