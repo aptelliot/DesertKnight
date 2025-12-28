@@ -1,0 +1,73 @@
+======================================================================
+========================= SISTEMA DE PUNTUACIÓN ======================
+======================================================================
+
+PRINCIPIOS GENERALES
+----------------------------------------------------------------------
+- Cada stage tiene **puntuación máxima** según distancia, peso y repeticiones.
+- Se suman puntos por:
+  1️⃣ Cumplir tiempo
+  2️⃣ Cumplir repeticiones o distancia
+  3️⃣ Precisión en tiro
+- Penalizaciones:
+  - No cumplir tiempo máximo → -10% a -50% del stage
+  - Repetición mal ejecutada → -1 punto por error
+  - Fallo de tiro → -1 a -3 puntos por disparo, según dificultad
+  - Soltar carga (farmer carry, arrastre, sandbag) → +30 s al tiempo total o -5 puntos
+- Cada stage tiene **peso relativo** según dificultad:
+  - Stages cortos y explosivos: 15–20 puntos
+  - Stages de carga pesada: 20–25 puntos
+  - Stages de resistencia larga: 25–30 puntos
+
+EJEMPLO DE PUNTOS POR STAGE
+----------------------------------------------------------------------
+DÍA 1 – STAGES 1 y 2
+- Stage 1 (Sprint + Farmer Carry + Burpees + Tiro): 20 puntos
+- Stage 2 (Obstáculos + Flexiones + Dominadas + Tiro): 20 puntos
+
+DÍA 2 – STAGES 3 y 4
+- Stage 3 (Arrastre + Sandbag + Farmer Carry + Tiro): 25 puntos
+- Stage 4 (Carrera + Burpees + Tiro): 20 puntos
+
+DÍA 3 – STAGES 5 y 6
+- Stage 5 (Trail + Zancadas + Flexiones + Farmer Carry + Burpees + Tiro): 30 puntos
+- Stage 6 (Marcha táctica + Tiro final): 25 puntos
+
+PENALIZACIONES
+----------------------------------------------------------------------
+- Llegar tarde al tiempo máximo de cualquier ejercicio:
+  - 1–10 s: -1 punto
+  - 11–30 s: -3 puntos
+  - +30 s: -5 puntos o no disparas
+- Repetición mal ejecutada: -1 punto cada una
+- Fallo de tiro:
+  - Rifle: -1 punto por disparo
+  - Pistola: -2 puntos por disparo
+- Soltar cargas o saltar obstáculos mal: -3 puntos
+
+RECUENTO FINAL
+----------------------------------------------------------------------
+1️⃣ Suma los puntos de todos los stages completados correctamente
+2️⃣ Resta las penalizaciones acumuladas
+3️⃣ Resultado final: 
+   - 100–90 puntos → Elite
+   - 89–75 puntos → Intermediate
+   - 74–60 puntos → Beginner
+   - <60 puntos → Falta entrenamiento / reiniciar simulación
+
+🔹 EJEMPLO PRÁCTICO
+- Stage 1: 20 puntos, cumplido todo: +20
+- Stage 2: 20 puntos, llegas 5 s tarde y fallas 2 tiros: -1 (tiempo) -2 (tiros) = 17
+- Stage 3: 25 puntos, todo bien: +25
+- Stage 4: 20 puntos, fallas 1 tiro: -2 = 18
+- Stage 5: 30 puntos, llegas 35 s tarde: -5 = 25
+- Stage 6: 25 puntos, todo bien: +25
+- **TOTAL:** 20+17+25+18+25+25 = 130 puntos / 150 posibles
+
+CONSEJO
+----------------------------------------------------------------------
+- Apunta los tiempos y repeticiones en cada stage
+- Marca disparos acertados
+- Haz el recuento **al final del día o evento**
+- Penalizaciones se aplican inmediatamente al terminar cada stage
+- Esto permite comparar con tu propio progreso semana tras semana
